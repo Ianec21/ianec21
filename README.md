@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ianec</h1>
-<h3 align="center">A passionate full-stack developer from Moldova</h3>
+![Hi my name is ianec](https://github.com/user-attachments/assets/78427434-d1d4-4190-9753-9c9ef15fcaee)
+
 
 <br>
 
