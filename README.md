@@ -19,10 +19,9 @@
 
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianec21&" alt="ianec21" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianec21&show_icons=true&locale=en" alt="ianec21" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianec21&show_icons=true&locale=en&layout=compact" alt="ianec21" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianec21&show_icons=true&theme=dark&locale=en" alt="ianec21" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianec21&show_icons=true&theme=dark&locale=en&layout=compact" alt="ianec21" /></p>
+  
 </div>
 
 <br>
