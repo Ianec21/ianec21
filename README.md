@@ -29,6 +29,8 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 
 <br/>
 
+<div align="center">
+
 ## 🛠️ &nbsp;Tech Stack
 
 <table>
@@ -88,7 +90,11 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 </tr>
 </table>
 
+</div>
+
 <br/>
+
+<div align="center">
 
 ## 🎓 &nbsp;Education
 
@@ -96,6 +102,8 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 |--------|-----------|------|
 | 🎓 **M.Sc. Software Engineering** | West University of Timișoara | 2025 – Present |
 | 📜 **B.Sc. Informatics** | University Politehnica Timișoara | 2022 – 2025 |
+
+</div>
 
 <br/>
 
@@ -149,12 +157,18 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 
 <br/>
 
+<div align="center">
+
 ## 🌍 &nbsp;Languages
 
 <img src="https://img.shields.io/badge/Romanian-Native-2E86C1?style=for-the-badge" /> &nbsp;
 <img src="https://img.shields.io/badge/English-Full_Professional_Proficiency-27AE60?style=for-the-badge" />
 
+</div>
+
 <br/><br/>
+
+<div align="center">
 
 ## ⚡ &nbsp;Beyond Code
 
@@ -163,6 +177,8 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 🔧  Car Mechanics       ████████████░░░░░░░░  Hands-on
 🎮  Game Development    ██████████████████░░  Passion project
 ```
+
+</div>
 
 <br/>
 
