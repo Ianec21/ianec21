@@ -29,9 +29,9 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 
 <br/>
 
-<div align="center">
-
 ## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
 
 <table>
 <tr>
@@ -94,9 +94,9 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 
 <br/>
 
-<div align="center">
-
 ## 🎓 &nbsp;Education
+
+<div align="center">
 
 | Degree | University | Year |
 |--------|-----------|------|
@@ -157,9 +157,9 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 
 <br/>
 
-<div align="center">
-
 ## 🌍 &nbsp;Languages
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Romanian-Native-2E86C1?style=for-the-badge" /> &nbsp;
 <img src="https://img.shields.io/badge/English-Full_Professional_Proficiency-27AE60?style=for-the-badge" />
@@ -168,9 +168,9 @@ I'm a motivated and detail-oriented **Full Stack Developer** currently pursuing 
 
 <br/><br/>
 
-<div align="center">
-
 ## ⚡ &nbsp;Beyond Code
+
+<div align="center">
 
 ```text
 🚵  Mountain Biking     ████████████████░░░░  Trail time
